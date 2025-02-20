@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Grechen+Fuemen&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+    --blue: #429596;
+    --lightBlue: #8BBBB7;
+    --pale: #F3D9B5;
+    --orange: #DDA25B;
+    --darkOrange: #CF8D51;
+}
+header h1{
+    font-family: "Roboto", serif;
+    display: flex;
+    justify-content: center;
+    color: var(--darkOrange);
+    padding: 8px;
+    font-size: 40px;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
+main input{
+    background-color: var(--pale);
+}
+main button{
+    background-color: var(--lightBlue);
+}
+
