@@ -38,7 +38,7 @@ Confira a demonstração do site: [App-Clima]()
 
 Clone o repositório
 ```bash
-git clone ()
+git clone (https://github.com/isagodev/App-Clima.git)
 ```
 
 ## Installation and usage
